@@ -189,4 +189,3 @@ if defined?(Wice::Defaults)
   Wice::Defaults::USE_DEFAULT_SCOPE = false
 
 end
-
